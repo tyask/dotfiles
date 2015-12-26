@@ -1,0 +1,10 @@
+neobundle.vim
+neocomplcache
+neosnippet
+neosnippet-snippets
+nerdtree
+perldoc-vim
+unite.vim
+vim-perl
+vim-quickrun
+vim-surround
