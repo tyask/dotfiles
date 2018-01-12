@@ -1,10 +1,15 @@
+jedi-vim
 neobundle.vim
 neocomplcache
-neosnippet
-neosnippet-snippets
 nerdtree
 perldoc-vim
+pyflakes-vim
+slimv
 unite.vim
+vim-hybrid
 vim-perl
 vim-quickrun
+vim-scala
 vim-surround
+vimproc.vim
+vimshell
